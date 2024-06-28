@@ -1,10 +1,3 @@
-
-Sure, I can help you create a README for the Grader.py file. First, I'll need to review the contents of the file. Let me check it and then I will draft the README for you.
-
-Let's load and examine the content of Grader.py.
-
-Based on the content of the Grader.py file, here is a detailed README for the project:
-
 Grader Application
 The Grader Application is a desktop application built using Python and Tkinter, with additional styling from the ttkbootstrap library. It allows users to manage trainee grading data efficiently. The app supports functionalities such as logging in with a PIN, importing answer keys and trainee submissions, grading submissions, displaying results, and exporting results to Excel files.
 
